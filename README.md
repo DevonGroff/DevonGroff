@@ -17,7 +17,7 @@ Recently I have been interested in learning more about NLP, as well as low-code 
 😸 Accidental Cat Person\
 📚 Constantly Reading Something New
 ## 🗃 My Work Style
-Massively motivated by groups that care about what they are working on and are simultaneously invested in the well-being of their fellow teammates. Addicted to [ToDoist](www.todoist.com) since high school, and recently became a bandwagoner for taking notes through [Notion](www.notion.com). Enjoy keeping my head down and tackling problems in an organized way, while still remaining open and excited to pair up / work as a team to find solutions.
+Massively motivated by groups that care about what they are working on and are simultaneously invested in the well-being of their fellow teammates. I enjoy keeping my head down and tackling problems in an organized way, while still remaining open and excited to pair up / work as a team to find solutions.
 ## 🔍 Here's Where to Find Me
 * Devon's Website [[ www.devongroff.com ]](www.devongroff.com)
 * DG Websites [[ www.dgwebsites.co ]](www.dgwebsites.co)
