@@ -1,6 +1,5 @@
 # Devon Groff
 
-### ```💻 Retool```
 Hi, I'm Devon &mdash; I'm on the team at [Retool](www.retool.com) 👋
 
 ***
