@@ -1,26 +1,14 @@
 # Devon Groff
 
-### ```💻 Sales Engineer @ Retool```
-Hi, I'm Devon &mdash; a Sales Engineer at [Retool](www.retool.com) 👋
+### ```💻 Retool```
+Hi, I'm Devon &mdash; I'm on the team at [Retool](www.retool.com) 👋
 
 ***
 
-### ☁ My Interests:
-* Low code tools and solutions
-* Front-End development
-* Natural Language Processing (NLP)
-* Expanding access to technology
+#### 🔍 Where to find me
+LinkedIn [[ /in/DevonGroff ]](www.linkedin.com/in/devongroff)
 
-***
-
-### 🗃 My Work Style
-Massively motivated by teams that truly care about their work, their teammates, and those that their work impacts. I'm passionate about leading teams, and am continually looking for opportunities to teach in any capacity I can. 
-
-***
-
-#### 🔍 Here's Where to Find Me
-* My LinkedIn [[ /in/DevonGroff ]](www.linkedin.com/in/devongroff)
-* My Twitter [[ @DevonGroff ]](www.twitter.com/devongroff)
+Twitter [[ @DevonGroff ]](www.twitter.com/devongroff)
 ##
 
 <!--
@@ -34,6 +22,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
