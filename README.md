@@ -1,14 +1,6 @@
 # Devon Groff
 
-Hi, I'm Devon &mdash; I'm on the team at [Retool](www.retool.com) 👋
-
-***
-
-#### 🔍 Where to find me
-LinkedIn [[ /in/DevonGroff ]](www.linkedin.com/in/devongroff)
-
-Twitter [[ @DevonGroff ]](www.twitter.com/devongroff)
-##
+I work with teams as they get started on [Retool](www.retool.com) 👋
 
 <!--
 **DevonGroff/DevonGroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
