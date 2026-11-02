@@ -1,6 +1,6 @@
 # Devon Groff
 
-I work with teams as they get started on [Retool](www.retool.com) 👋
+Building at [Retool](www.retool.com) 👋
 
 <!--
 **DevonGroff/DevonGroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
